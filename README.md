@@ -12,7 +12,7 @@
 <img src="MyLibrary.png" height="400px" width="600px">
    
 ## Live link: 
-- ["MY LIBRARY APP"](http://beap.surge.sh/)
+- ["MY LIBRARY APP"](https://mybooklibraryapp.herokuapp.com/)
 
 ## Introduction video of the project: 
 - https://youtu.be/Iq2LGrzpNpQ
